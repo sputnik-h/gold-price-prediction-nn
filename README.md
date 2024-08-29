@@ -19,7 +19,7 @@ In the investment world, gold is a critical asset class, often seen as a hedge a
 
 ## Data Collection and Preparation
 
-The dataset used in this project contains 1,718 observations, including daily prices of gold, trading volumes, and various financial indicators such as:
+[The dataset](https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset) used in this project contains 1,718 observations, including daily prices of gold, trading volumes, and various financial indicators such as:
 - S&P 500 Index
 - US Dollar Index (USDI)
 - Consumer Price Indexes for US and EU
