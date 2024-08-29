@@ -12,7 +12,6 @@ This project aims to predict the daily changes in gold prices using a deep learn
 - [Front-End Application](#front-end-application)
 - [Conclusion](#conclusion)
 - [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
